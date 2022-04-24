@@ -21,4 +21,3 @@ $ terraform apply
 ## References
 
 - https://docs.aws.amazon.com/ja_jp/AmazonS3/latest/userguide/website-hosting-custom-domain-walkthrough.html
-# s3-static-website
